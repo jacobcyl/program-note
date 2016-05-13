@@ -51,3 +51,6 @@ Using Git or maybe some PEAR packages you might need to switch to console from t
 Lately my favorite Xdebug client for ST3. Works great and allows to use all of Xdebug debugging capabilities.
 
 If you know any plugin worth mentioning, then let me know – I’ll be glad to add it to my list. Any suggestions? :)
+
+##Hot key
+> to be continue
